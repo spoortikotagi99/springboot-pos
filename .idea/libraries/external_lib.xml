@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="external-lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pos/external-lib/glasspane-popup-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pos/external-lib/poi-ooxml-schemas-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pos/external-lib/xmlbeans-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pos/external-lib/jfreechart-1.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pos/external-lib/TimingFramework-0.55.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pos/external-lib/itextpdf-5.5.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pos/external-lib/miglayout-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pos/external-lib/RojeruSan.parte1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pos/external-lib/flatlaf-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pos/external-lib/jgoodies-forms-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pos/external-lib/jdatepicker-2.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pos/external-lib/mysql-connector-j-8.0.32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pos/external-lib/jgoodies-common-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pos/external-lib/poi-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pos/external-lib/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pos/external-lib/javaparser-1.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pos/external-lib/RSTableMetro.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pos/external-lib/poi-ooxml-3.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
